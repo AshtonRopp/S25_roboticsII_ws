@@ -1,4 +1,10 @@
-# S25_roboticsII
+# Group Members
+Erik Epp
+Ashton Ropp
+Jamie Draper
+Marklin Junning
+
+# S25_robotics II
 ROS2 Workspace for S25 RoboticsII
 
 ## Fork the repository
